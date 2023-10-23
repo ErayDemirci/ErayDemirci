@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Eray Demirci</h1>
-
+- 🌱 I’m currently learning React and C#
 - 📫 How to reach me **eraydemirciofficial@hotmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
